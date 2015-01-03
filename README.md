@@ -1,4 +1,4 @@
 test
 ====
 
-learning using GitHub.
+learning GitHub.
